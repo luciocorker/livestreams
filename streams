@@ -1,0 +1,69 @@
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/HubP1.png" group-title="EPL",Hub Premier 1 FHD
+http://vocotv.pro:80/robins/robins/62917
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hub3.png" group-title="EPL",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hub4.png" group-title="EPL",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UK Sports",Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+
+# --- SuperSports (17) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS VARIETY 01
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47628.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS VARIETY 02
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47629.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS VARIETY 03
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47630.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS VARIETY 04
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47631.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Blitz
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47632.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Premier League
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47633.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Cricket
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47634.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Rugby
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47635.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Football
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47636.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Action
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47637.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS La Lagia
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47638.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS PSL
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47639.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS MaXimo
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47640.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Tennis
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47721.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Motorsports
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47722.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Golf
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47723.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Grandstand
+http://kstv.us:8080/live/GX0PjEapsX/5128860596/47724.m3u8
+# --- |AF| AFRIQUE OTHERS (170) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/COITEDIVOIRE.png" group-title="|AF| AFRIQUE OTHERS",##### COITEDIVOIRE #####
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/311489.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/novelatv.png" group-title="|AF| AFRIQUE OTHERS",COITED - NOVELA
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/647892.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/RTI1.png" group-title="|AF| AFRIQUE OTHERS",COITED - RTI1
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/311490.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/LA-3.png" group-title="|AF| AFRIQUE OTHERS",COITED - LA 3 HD
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/564497.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/rti2.png" group-title="|AF| AFRIQUE OTHERS",COITED - RTI2
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/311491.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/NCI.png" group-title="|AF| AFRIQUE OTHERS",COITED - NCI
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/617612.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/LMTV.png" group-title="|AF| AFRIQUE OTHERS",COITED - LMTV
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/679989.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ntv.png" group-title="|AF| AFRIQUE OTHERS",COITED - NTV COTE D'IVOIRE
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/893830.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALBAYANE.png" group-title="|AF| AFRIQUE OTHERS",COITED - ALBAYANE
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/679990.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/APLUS.png" group-title="|AF| AFRIQUE OTHERS",COITED - A+
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/679992.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/BENIE.png" group-title="|AF| AFRIQUE OTHERS",COITED - BENIE TV
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/679991.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ONE-AFRICA.png" group-title="|AF| AFRIQUE OTHERS",NAM - ONE AFRICA TV
+http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/311484.m3u8
