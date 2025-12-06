@@ -1,69 +1,314 @@
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/HubP1.png" group-title="EPL",Hub Premier 1 FHD
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-1 KZN" tvg-logo="https://epg.112114.xyz/logo/DS-1 KZN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-1 KZN
+http://vocotv.pro:80/robins/robins/62826
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-1Magic (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-1Magic (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-1Magic (FHD)
+http://vocotv.pro:80/robins/robins/62901
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-AfricaMagic Epic (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-AfricaMagic Epic (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-AfricaMagic Epic (FHD)
+http://vocotv.pro:80/robins/robins/62879
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Africa Magic Family" tvg-logo="https://epg.112114.xyz/logo/DS-Africa Magic Family.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Africa Magic Family
+http://vocotv.pro:80/robins/robins/62838
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Africa Magic Hausa" tvg-logo="https://epg.112114.xyz/logo/DS-Africa Magic Hausa.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Africa Magic Hausa
+http://vocotv.pro:80/robins/robins/253566
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Africa Magic Igbo" tvg-logo="https://epg.112114.xyz/logo/DS-Africa Magic Igbo.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Africa Magic Igbo
+http://vocotv.pro:80/robins/robins/253569
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Africa Magic ShowCase" tvg-logo="https://epg.112114.xyz/logo/DS-Africa Magic ShowCase.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Africa Magic ShowCase
+http://vocotv.pro:80/robins/robins/253568
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Africa Magic Urban" tvg-logo="https://epg.112114.xyz/logo/DS-Africa Magic Urban.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Africa Magic Urban
+http://vocotv.pro:80/robins/robins/62839
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Africa Magic Yoruba" tvg-logo="https://epg.112114.xyz/logo/DS-Africa Magic Yoruba.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Africa Magic Yoruba
+http://vocotv.pro:80/robins/robins/253567
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-African News" tvg-logo="https://epg.112114.xyz/logo/DS-African News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-African News
+http://vocotv.pro:80/robins/robins/62804
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-BBC Brit (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-BBC Brit (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-BBC Brit (FHD)
+http://vocotv.pro:80/robins/robins/62884
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-BBC Earth (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-BBC Earth (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-BBC Earth (FHD)
+http://vocotv.pro:80/robins/robins/62866
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-BBC Lifestyle (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-BBC Lifestyle (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-BBC Lifestyle (FHD)
+http://vocotv.pro:80/robins/robins/62869
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-BBC World News" tvg-logo="https://epg.112114.xyz/logo/DS-BBC World News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-BBC World News
+http://vocotv.pro:80/robins/robins/62793
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-BET (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-BET (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-BET (FHD)
+http://vocotv.pro:80/robins/robins/62889
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Big Brother Naija" tvg-logo="https://epg.112114.xyz/logo/DS-Big Brother Naija.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Big Brother Naija
+http://vocotv.pro:80/robins/robins/258087
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Bloomberg" tvg-logo="https://epg.112114.xyz/logo/DS-Bloomberg.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Bloomberg
+http://vocotv.pro:80/robins/robins/62800
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Business Day TV" tvg-logo="https://epg.112114.xyz/logo/DS-Business Day TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Business Day TV
+http://vocotv.pro:80/robins/robins/62801
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Cape Town TV" tvg-logo="https://epg.112114.xyz/logo/DS-Cape Town TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Cape Town TV
+http://vocotv.pro:80/robins/robins/62824
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Cartoon Network (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Cartoon Network (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Cartoon Network (FHD)
+http://vocotv.pro:80/robins/robins/62857
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Cbeebies" tvg-logo="https://epg.112114.xyz/logo/DS-Cbeebies.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Cbeebies
+http://vocotv.pro:80/robins/robins/62820
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-CBS Justice (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-CBS Justice (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-CBS Justice (FHD)
+http://vocotv.pro:80/robins/robins/62872
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-CBS Reality (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-CBS Reality (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-CBS Reality (FHD)
+http://vocotv.pro:80/robins/robins/62891
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-CCTV 4" tvg-logo="https://epg.112114.xyz/logo/DS-CCTV 4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-CCTV 4
+http://vocotv.pro:80/robins/robins/62809
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-CGTN News" tvg-logo="https://epg.112114.xyz/logo/DS-CGTN News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-CGTN News
+http://vocotv.pro:80/robins/robins/62797
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-CNBC Africa" tvg-logo="https://epg.112114.xyz/logo/DS-CNBC Africa.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-CNBC Africa
+http://vocotv.pro:80/robins/robins/62798
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-CNN International (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-CNN International (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-CNN International (FHD)
+http://vocotv.pro:80/robins/robins/62905
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Comedy Central (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Comedy Central (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Comedy Central (FHD)
+http://vocotv.pro:80/robins/robins/62885
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Curiosity Channel (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Curiosity Channel (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Curiosity Channel (FHD)
+http://vocotv.pro:80/robins/robins/62865
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Da Vinci" tvg-logo="https://epg.112114.xyz/logo/DS-Da Vinci.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Da Vinci
+http://vocotv.pro:80/robins/robins/62811
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Daystar" tvg-logo="https://epg.112114.xyz/logo/DS-Daystar.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Daystar
+http://vocotv.pro:80/robins/robins/62788
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Deutsche Welle" tvg-logo="https://epg.112114.xyz/logo/DS-Deutsche Welle.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Deutsche Welle
+http://vocotv.pro:80/robins/robins/62808
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Discovery Channel (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Discovery Channel (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Discovery Channel (FHD)
+http://vocotv.pro:80/robins/robins/62906
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Discovery Family (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Discovery Family (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Discovery Family (FHD)
+http://vocotv.pro:80/robins/robins/62893
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Disney Channel" tvg-logo="https://epg.112114.xyz/logo/DS-Disney Channel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Disney Channel
+http://vocotv.pro:80/robins/robins/62821
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Disney Junior" tvg-logo="https://epg.112114.xyz/logo/DS-Disney Junior.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Disney Junior
+http://vocotv.pro:80/robins/robins/62817
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Dreamworks (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Dreamworks (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Dreamworks (FHD)
+http://vocotv.pro:80/robins/robins/62855
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Dumisa" tvg-logo="https://epg.112114.xyz/logo/DS-Dumisa.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Dumisa
+http://vocotv.pro:80/robins/robins/62786
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-E! Entertainment Television" tvg-logo="https://epg.112114.xyz/logo/DS-E! Entertainment Television.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-E! Entertainment Television
+http://vocotv.pro:80/robins/robins/62887
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-e.tv (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-e.tv (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-e.tv (FHD)
+http://vocotv.pro:80/robins/robins/62860
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-e.TV Extra (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-e.TV Extra (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-e.TV Extra (FHD)
+http://vocotv.pro:80/robins/robins/62859
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Emmanuel TV" tvg-logo="https://epg.112114.xyz/logo/DS-Emmanuel TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Emmanuel TV
+http://vocotv.pro:80/robins/robins/62792
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-eMovies (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-eMovies (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-eMovies (FHD)
+http://vocotv.pro:80/robins/robins/62897
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-eMovies Extra (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-eMovies Extra (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-eMovies Extra (FHD)
+http://vocotv.pro:80/robins/robins/62896
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-eNCA (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-eNCA (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-eNCA (FHD)
+http://vocotv.pro:80/robins/robins/62849
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-ESPN (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-ESPN (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-ESPN (FHD)
+http://vocotv.pro:80/robins/robins/62927
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-ESPN 2 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-ESPN 2 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-ESPN 2 (FHD)
+http://vocotv.pro:80/robins/robins/62926
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-eToonz" tvg-logo="https://epg.112114.xyz/logo/DS-eToonz.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-eToonz
+http://vocotv.pro:80/robins/robins/62815
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-EuroNews" tvg-logo="https://epg.112114.xyz/logo/DS-EuroNews.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-EuroNews
+http://vocotv.pro:80/robins/robins/62803
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-FAITH" tvg-logo="https://epg.112114.xyz/logo/DS-FAITH.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-FAITH
+http://vocotv.pro:80/robins/robins/62787
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Food Network (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Food Network (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Food Network (FHD)
+http://vocotv.pro:80/robins/robins/62846
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-GauTV" tvg-logo="https://epg.112114.xyz/logo/DS-GauTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-GauTV
+http://vocotv.pro:80/robins/robins/62823
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-HGTV (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-HGTV (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-HGTV (FHD)
+http://vocotv.pro:80/robins/robins/62868
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Hilaal TV" tvg-logo="https://epg.112114.xyz/logo/DS-Hilaal TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Hilaal TV
+http://vocotv.pro:80/robins/robins/62791
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-HISTORY (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-HISTORY (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-HISTORY (FHD)
+http://vocotv.pro:80/robins/robins/62864
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Honey (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Honey (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Honey (FHD)
+http://vocotv.pro:80/robins/robins/62870
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Ignition" tvg-logo="https://epg.112114.xyz/logo/DS-Ignition.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Ignition
+http://vocotv.pro:80/robins/robins/62833
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Investigation Discovery (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Investigation Discovery (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Investigation Discovery (FHD)
+http://vocotv.pro:80/robins/robins/62871
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-iNX Prime" tvg-logo="https://epg.112114.xyz/logo/DS-iNX Prime.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-iNX Prime
+http://vocotv.pro:80/robins/robins/62790
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-JimJam" tvg-logo="https://epg.112114.xyz/logo/DS-JimJam.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-JimJam
+http://vocotv.pro:80/robins/robins/62816
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-KIX (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-KIX (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-KIX (FHD)
+http://vocotv.pro:80/robins/robins/62902
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-kykNET" tvg-logo="https://epg.112114.xyz/logo/DS-kykNET.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-kykNET
+http://vocotv.pro:80/robins/robins/62894
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-kykNET Kie" tvg-logo="https://epg.112114.xyz/logo/DS-kykNET Kie.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-kykNET Kie
+http://vocotv.pro:80/robins/robins/62895
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-kykNET Nou" tvg-logo="https://epg.112114.xyz/logo/DS-kykNET Nou.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-kykNET Nou
+http://vocotv.pro:80/robins/robins/62842
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Lesotho TV" tvg-logo="https://epg.112114.xyz/logo/DS-Lesotho TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Lesotho TV
+http://vocotv.pro:80/robins/robins/62822
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-M-Net (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-M-Net (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-M-Net (FHD)
+http://vocotv.pro:80/robins/robins/62915
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-M-Net Movies 1 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-M-Net Movies 1 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-M-Net Movies 1 (FHD)
+http://vocotv.pro:80/robins/robins/62913
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-M-Net Movies 2 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-M-Net Movies 2 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-M-Net Movies 2 (FHD)
+http://vocotv.pro:80/robins/robins/62912
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-M-Net Movies 3 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-M-Net Movies 3 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-M-Net Movies 3 (FHD)
+http://vocotv.pro:80/robins/robins/62911
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-M-Net Movies 4 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-M-Net Movies 4 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-M-Net Movies 4 (FHD)
+http://vocotv.pro:80/robins/robins/62910
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Maisha Magic East" tvg-logo="https://epg.112114.xyz/logo/DS-Maisha Magic East.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Maisha Magic East
+http://vocotv.pro:80/robins/robins/62841
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Mindset" tvg-logo="https://epg.112114.xyz/logo/DS-Mindset.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Mindset
+http://vocotv.pro:80/robins/robins/62810
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-MojaLove (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-MojaLove (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-MojaLove (FHD)
+http://vocotv.pro:80/robins/robins/62878
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Moonbug (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Moonbug (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Moonbug (FHD)
+http://vocotv.pro:80/robins/robins/62856
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Moonbug Kids" tvg-logo="https://epg.112114.xyz/logo/DS-Moonbug Kids.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Moonbug Kids
+http://vocotv.pro:80/robins/robins/62813
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Movie Room (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Movie Room (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Movie Room (FHD)
+http://vocotv.pro:80/robins/robins/62898
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Mpuma Kapa TV" tvg-logo="https://epg.112114.xyz/logo/DS-Mpuma Kapa TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Mpuma Kapa TV
+http://vocotv.pro:80/robins/robins/62828
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-MTV (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-MTV (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-MTV (FHD)
+http://vocotv.pro:80/robins/robins/62890
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-MTV Base (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-MTV Base (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-MTV Base (FHD)
+http://vocotv.pro:80/robins/robins/62852
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Mzansi Bioskop (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Mzansi Bioskop (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Mzansi Bioskop (FHD)
+http://vocotv.pro:80/robins/robins/62875
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Mzansi Magic (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Mzansi Magic (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Mzansi Magic (FHD)
+http://vocotv.pro:80/robins/robins/62877
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Mzansi Magic Music (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Mzansi Magic Music (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Mzansi Magic Music (FHD)
+http://vocotv.pro:80/robins/robins/62853
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Mzansi Wethu (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Mzansi Wethu (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Mzansi Wethu (FHD)
+http://vocotv.pro:80/robins/robins/62876
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-National Geographic (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-National Geographic (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-National Geographic (FHD)
+http://vocotv.pro:80/robins/robins/62903
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-National Geographic WILD (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-National Geographic WILD (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-National Geographic WILD (FHD)
+http://vocotv.pro:80/robins/robins/62908
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-NDTV247" tvg-logo="https://epg.112114.xyz/logo/DS-NDTV247.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-NDTV247
+http://vocotv.pro:80/robins/robins/62802
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Newzroom Afrika (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Newzroom Afrika (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Newzroom Afrika (FHD)
+http://vocotv.pro:80/robins/robins/62851
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-NHK" tvg-logo="https://epg.112114.xyz/logo/DS-NHK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-NHK
+http://vocotv.pro:80/robins/robins/62806
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Nickelodeon (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Nickelodeon (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Nickelodeon (FHD)
+http://vocotv.pro:80/robins/robins/62854
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Nick Jr" tvg-logo="https://epg.112114.xyz/logo/DS-Nick Jr.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Nick Jr
+http://vocotv.pro:80/robins/robins/62819
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-NickTOONS" tvg-logo="https://epg.112114.xyz/logo/DS-NickTOONS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-NickTOONS
+http://vocotv.pro:80/robins/robins/62818
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-One Gospel" tvg-logo="https://epg.112114.xyz/logo/DS-One Gospel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-One Gospel
+http://vocotv.pro:80/robins/robins/62784
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Parliamentary Service" tvg-logo="https://epg.112114.xyz/logo/DS-Parliamentary Service.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Parliamentary Service
+http://vocotv.pro:80/robins/robins/62796
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-People Weather" tvg-logo="https://epg.112114.xyz/logo/DS-People Weather.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-People Weather
+http://vocotv.pro:80/robins/robins/62834
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS- Trybe TV" tvg-logo="https://epg.112114.xyz/logo/DS- Trybe TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS- Trybe TV
+http://vocotv.pro:80/robins/robins/62880
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Racing 240" tvg-logo="https://epg.112114.xyz/logo/DS-Racing 240.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Racing 240
+http://vocotv.pro:80/robins/robins/62830
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-RAI Italia" tvg-logo="https://epg.112114.xyz/logo/DS-RAI Italia.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-RAI Italia
+http://vocotv.pro:80/robins/robins/62805
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Real Time" tvg-logo="https://epg.112114.xyz/logo/DS-Real Time.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Real Time
+http://vocotv.pro:80/robins/robins/62837
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Rok" tvg-logo="https://epg.112114.xyz/logo/DS-Rok.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Rok
+http://vocotv.pro:80/robins/robins/62845
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-RTP Internacional" tvg-logo="https://epg.112114.xyz/logo/DS-RTP Internacional.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-RTP Internacional
+http://vocotv.pro:80/robins/robins/62807
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Russia Today" tvg-logo="https://epg.112114.xyz/logo/DS-Russia Today.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Russia Today
+http://vocotv.pro:80/robins/robins/62795
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-SABC 1 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-SABC 1 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-SABC 1 (FHD)
+http://vocotv.pro:80/robins/robins/62863
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-SABC 2 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-SABC 2 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-SABC 2 (FHD)
+http://vocotv.pro:80/robins/robins/62862
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-SABC 3 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-SABC 3 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-SABC 3 (FHD)
+http://vocotv.pro:80/robins/robins/62861
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-SABC News" tvg-logo="https://epg.112114.xyz/logo/DS-SABC News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-SABC News
+http://vocotv.pro:80/robins/robins/62850
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Sky News (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Sky News (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Sky News (FHD)
+http://vocotv.pro:80/robins/robins/62848
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-SOUNDCITY" tvg-logo="https://epg.112114.xyz/logo/DS-SOUNDCITY.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-SOUNDCITY
+http://vocotv.pro:80/robins/robins/62782
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Soweto TV" tvg-logo="https://epg.112114.xyz/logo/DS-Soweto TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Soweto TV
+http://vocotv.pro:80/robins/robins/62829
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Spice TV" tvg-logo="https://epg.112114.xyz/logo/DS-Spice TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Spice TV
+http://vocotv.pro:80/robins/robins/62832
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS- SS Maximo 1 Champions" tvg-logo="https://epg.112114.xyz/logo/DS- SS Maximo 1 Champions.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS- SS Maximo 1 Champions
+http://vocotv.pro:80/robins/robins/62930
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS- SS Maximo 2 Champions (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS- SS Maximo 2 Champions (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS- SS Maximo 2 Champions (FHD)
+http://vocotv.pro:80/robins/robins/62929
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS- SS WWE Channel (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS- SS WWE Channel (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS- SS WWE Channel (FHD)
+http://vocotv.pro:80/robins/robins/62916
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Star Life (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Star Life (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Star Life (FHD)
+http://vocotv.pro:80/robins/robins/62874
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Studio Universal (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Studio Universal (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Studio Universal (FHD)
+http://vocotv.pro:80/robins/robins/62899
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Super Sport OTT (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Super Sport OTT (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Super Sport OTT (FHD)
+http://vocotv.pro:80/robins/robins/62925
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Super Sport OTT 2 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Super Sport OTT 2 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Super Sport OTT 2 (FHD)
+http://vocotv.pro:80/robins/robins/62924
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Super Sport OTT 3 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Super Sport OTT 3 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Super Sport OTT 3 (FHD)
+http://vocotv.pro:80/robins/robins/62923
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Super Sport OTT 4 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Super Sport OTT 4 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Super Sport OTT 4 (FHD)
+http://vocotv.pro:80/robins/robins/62922
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Super Sport OTT 5 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Super Sport OTT 5 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Super Sport OTT 5 (FHD)
+http://vocotv.pro:80/robins/robins/62921
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Super Sport OTT 6 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Super Sport OTT 6 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Super Sport OTT 6 (FHD)
+http://vocotv.pro:80/robins/robins/62920
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Super Sport OTT 7 (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Super Sport OTT 7 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Super Sport OTT 7 (FHD)
+http://vocotv.pro:80/robins/robins/62919
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-SuperSport Play (HD)" tvg-logo="https://epg.112114.xyz/logo/DS-SuperSport Play (HD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-SuperSport Play (HD)
+http://vocotv.pro:80/robins/robins/62918
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-TBN Africa" tvg-logo="https://epg.112114.xyz/logo/DS-TBN Africa.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-TBN Africa
+http://vocotv.pro:80/robins/robins/62789
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Telemundo" tvg-logo="https://epg.112114.xyz/logo/DS-Telemundo.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Telemundo
+http://vocotv.pro:80/robins/robins/62844
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-The Home Channel" tvg-logo="https://epg.112114.xyz/logo/DS-The Home Channel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-The Home Channel
+http://vocotv.pro:80/robins/robins/62836
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-TLC Entertainment (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-TLC Entertainment (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-TLC Entertainment (FHD)
+http://vocotv.pro:80/robins/robins/62892
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-TLNovelas" tvg-logo="https://epg.112114.xyz/logo/DS-TLNovelas.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-TLNovelas
+http://vocotv.pro:80/robins/robins/62840
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-TNT Africa (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-TNT Africa (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-TNT Africa (FHD)
+http://vocotv.pro:80/robins/robins/62904
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-TRACE Africa" tvg-logo="https://epg.112114.xyz/logo/DS-TRACE Africa.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-TRACE Africa
+http://vocotv.pro:80/robins/robins/62781
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-TRACE Gospel" tvg-logo="https://epg.112114.xyz/logo/DS-TRACE Gospel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-TRACE Gospel
+http://vocotv.pro:80/robins/robins/62785
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-TRACE Urban (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-TRACE Urban (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-TRACE Urban (FHD)
+http://vocotv.pro:80/robins/robins/62847
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Travel Channel" tvg-logo="https://epg.112114.xyz/logo/DS-Travel Channel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Travel Channel
+http://vocotv.pro:80/robins/robins/62835
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Tshwane TV" tvg-logo="https://epg.112114.xyz/logo/DS-Tshwane TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Tshwane TV
+http://vocotv.pro:80/robins/robins/62825
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Universal TV (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Universal TV (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Universal TV (FHD)
+http://vocotv.pro:80/robins/robins/62883
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-VIA" tvg-logo="https://epg.112114.xyz/logo/DS-VIA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-VIA
+http://vocotv.pro:80/robins/robins/62881
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Wild Earth" tvg-logo="https://epg.112114.xyz/logo/DS-Wild Earth.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Wild Earth
+http://vocotv.pro:80/robins/robins/62867
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="DS-Zee World (FHD)" tvg-logo="https://epg.112114.xyz/logo/DS-Zee World (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DS-Zee World (FHD)
+http://vocotv.pro:80/robins/robins/62907
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Action" tvg-logo="https://epg.112114.xyz/logo/SS Action.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Action
+http://vocotv.pro:80/robins/robins/62934
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Blitz (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Blitz (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Blitz (FHD)
+http://vocotv.pro:80/robins/robins/62950
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Cricket" tvg-logo="https://epg.112114.xyz/logo/SS Cricket.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Cricket
+http://vocotv.pro:80/robins/robins/62946
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Football (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Football (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Football (FHD)
+http://vocotv.pro:80/robins/robins/62945
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Football Plus (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Football Plus (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Football Plus (FHD)
+http://vocotv.pro:80/robins/robins/62944
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Golf (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Golf (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Golf (FHD)
+http://vocotv.pro:80/robins/robins/62940
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Grandstand (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Grandstand (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Grandstand (FHD)
+http://vocotv.pro:80/robins/robins/62947
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS LaLiga (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS LaLiga (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS LaLiga (FHD)
+http://vocotv.pro:80/robins/robins/62948
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Liyu (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Liyu (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Liyu (FHD)
+http://vocotv.pro:80/robins/robins/62932
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Liyu 2" tvg-logo="https://epg.112114.xyz/logo/SS Liyu 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Liyu 2
+http://vocotv.pro:80/robins/robins/62931
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Motorsport (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Motorsport (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Motorsport (FHD)
+http://vocotv.pro:80/robins/robins/62939
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Premier League (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Premier League (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Premier League (FHD)
+http://vocotv.pro:80/robins/robins/62949
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS PSL (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS PSL (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS PSL (FHD)
+http://vocotv.pro:80/robins/robins/62943
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Rugby (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Rugby (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Rugby (FHD)
+http://vocotv.pro:80/robins/robins/62941
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Tennis (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Tennis (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Tennis (FHD)
+http://vocotv.pro:80/robins/robins/62933
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Variety 1 (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Variety 1 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Variety 1 (FHD)
+http://vocotv.pro:80/robins/robins/62938
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Variety 2 (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Variety 2 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Variety 2 (FHD)
+http://vocotv.pro:80/robins/robins/62937
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Variety 3 (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Variety 3 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Variety 3 (FHD)
+http://vocotv.pro:80/robins/robins/62936
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="SS Variety 4 (FHD)" tvg-logo="https://epg.112114.xyz/logo/SS Variety 4 (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SS Variety 4 (FHD)
+http://vocotv.pro:80/robins/robins/62935
+#EXTINF:-1 group-title="Africa | DSTV South Africa" tvg-name="Supersport Schools (FHD)" tvg-logo="https://epg.112114.xyz/logo/Supersport Schools (FHD).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Supersport Schools (FHD)
 http://vocotv.pro:80/robins/robins/62917
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hub3.png" group-title="EPL",Hub Premier 3 FHD
-https://a1xs.vip/1100043
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hub4.png" group-title="EPL",Hub Premier 4 FHD
-https://a1xs.vip/1100044
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UK Sports",Sky Sports Main Event UHD
-https://a1xs.vip/2000015
-
-# --- SuperSports (17) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS VARIETY 01
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47628.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS VARIETY 02
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47629.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS VARIETY 03
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47630.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS VARIETY 04
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47631.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Blitz
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47632.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Premier League
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47633.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Cricket
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47634.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Rugby
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47635.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Football
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47636.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Action
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47637.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS La Lagia
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47638.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS PSL
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47639.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS MaXimo
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47640.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Tennis
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47721.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Motorsports
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47722.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Golf
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47723.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FNsHZH/supersport.png" group-title="SuperSports",AF | SUPERSPORTS Grandstand
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/47724.m3u8
-# --- |AF| AFRIQUE OTHERS (170) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/COITEDIVOIRE.png" group-title="|AF| AFRIQUE OTHERS",##### COITEDIVOIRE #####
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/311489.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/novelatv.png" group-title="|AF| AFRIQUE OTHERS",COITED - NOVELA
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/647892.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/RTI1.png" group-title="|AF| AFRIQUE OTHERS",COITED - RTI1
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/311490.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/LA-3.png" group-title="|AF| AFRIQUE OTHERS",COITED - LA 3 HD
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/564497.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/rti2.png" group-title="|AF| AFRIQUE OTHERS",COITED - RTI2
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/311491.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/NCI.png" group-title="|AF| AFRIQUE OTHERS",COITED - NCI
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/617612.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/LMTV.png" group-title="|AF| AFRIQUE OTHERS",COITED - LMTV
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/679989.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ntv.png" group-title="|AF| AFRIQUE OTHERS",COITED - NTV COTE D'IVOIRE
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/893830.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALBAYANE.png" group-title="|AF| AFRIQUE OTHERS",COITED - ALBAYANE
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/679990.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/APLUS.png" group-title="|AF| AFRIQUE OTHERS",COITED - A+
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/679992.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/BENIE.png" group-title="|AF| AFRIQUE OTHERS",COITED - BENIE TV
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/679991.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ONE-AFRICA.png" group-title="|AF| AFRIQUE OTHERS",NAM - ONE AFRICA TV
-http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/311484.m3u8
