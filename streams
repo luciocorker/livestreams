@@ -244,7 +244,7 @@ http://vocotv.pro:80/robins/robins/62949
 #EXTINF:-1 tvg-id="202.dstv_com",SS PSL (FHD)
 http://vocotv.pro:80/robins/robins/62943
 #EXTINF:-1 tvg-id="211.dstv_com",SS Rugby (FHD)
-http://vocotv.pro:80/robins/robins/62941
+https://dlhd.sx/stream/stream-421.php
 #EXTINF:-1 tvg-id="214.dstv_com",SS Tennis (FHD)
 http://vocotv.pro:80/robins/robins/62933
 #EXTINF:-1 tvg-id="206.dstv_com",SS Variety 1 (FHD)
@@ -257,3 +257,5 @@ http://vocotv.pro:80/robins/robins/62936
 http://vocotv.pro:80/robins/robins/62935
 #EXTINF:-1 tvg-id="216.dstv_com",Supersport Schools (FHD)
 http://vocotv.pro:80/robins/robins/62917
+
+http://vocotv.pro:80/robins/robins/62941
