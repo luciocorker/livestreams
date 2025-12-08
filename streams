@@ -170,7 +170,7 @@ http://vocotv.pro:80/robins/robins/62807
 #EXTINF:-1 tvg-id="407.dstv_com",DS-Russia Today
 http://vocotv.pro:80/robins/robins/62795
 #EXTINF:-1 tvg-id="191.dstv_com",DS-SABC 1 (FHD)
-http://vocotv.pro:80/robins/robins/62863
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="192.dstv_com",DS-SABC 2 (FHD)
 http://vocotv.pro:80/robins/robins/62862
 #EXTINF:-1 tvg-id="193.dstv_com",DS-SABC 3 (FHD)
