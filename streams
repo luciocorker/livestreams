@@ -1,49 +1,49 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="261.dstv_com",DS-1 KZN
-http://tvsystem.my:80/live/411078517136/343417707359/3802.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3802.ts
 #EXTINF:-1 tvg-id="120.dstv_com",DS-BBC Brit (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3715.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3715.ts
 #EXTINF:-1 tvg-id="184.dstv_com",DS-BBC Earth (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3716.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3716.ts
 #EXTINF:-1 tvg-id="400.dstv_com",DS-BBC World News
-http://tvsystem.my:80/live/411078517136/343417707359/3985.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3985.ts
 #EXTINF:-1 tvg-id="129.dstv_com",DS-BET (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3879.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3879.ts
 #EXTINF:-1 tvg-id="411.dstv_com",DS-Bloomberg
-http://tvsystem.my:80/live/411078517136/343417707359/3702.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3702.ts
 #EXTINF:-1 tvg-id="412.dstv_com",DS-Business Day TV
 http://vocotv.pro:80/robins/robins/62801
 #EXTINF:-1 tvg-id="263.dstv_com",DS-Cape Town TV
 http://vocotv.pro:80/robins/robins/62824
 #EXTINF:-1 tvg-id="301.dstv_com",DS-Cartoon Network (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/10104.ts
+http://tvsystem.my:80/live/524596815638/425609628250/10104.ts
 #EXTINF:-1 tvg-id="306.dstv_com",DS-Cbeebies
-http://tvsystem.my:80/live/411078517136/343417707359/3910.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3910.ts
 #EXTINF:-1 tvg-id="170.dstv_com",DS-CBS Justice (FHD)
 http://vocotv.pro:80/robins/robins/62872
 #EXTINF:-1 tvg-id="132.dstv_com",DS-CBS Reality (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3800.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3800.ts
 #EXTINF:-1 tvg-id="409.dstv_com",DS-CGTN News
-http://tvsystem.my:80/live/411078517136/343417707359/3690.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3690.ts
 #EXTINF:-1 tvg-id="410.dstv_com",DS-CNBC Africa
-http://tvsystem.my:80/live/411078517136/343417707359/16980.ts
+http://tvsystem.my:80/live/524596815638/425609628250/16980.ts
 
 #EXTINF:-1 tvg-id="185.dstv_com",DS-Curiosity Channel (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/4410.ts
+http://tvsystem.my:80/live/524596815638/425609628250/4410.ts
 #EXTINF:-1 tvg-id="342.dstv_com",DS-Daystar
-http://tvsystem.my:80/live/411078517136/343417707359/3820.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3820.ts
 #EXTINF:-1 tvg-id="121.dstv_com",DS-Discovery Channel (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3831.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3831.ts
 #EXTINF:-1 tvg-id="136.dstv_com",DS-Discovery Family (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3833.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3833.ts
 #EXTINF:-1 tvg-id="303.dstv_com",DS-Disney Channel
-http://tvsystem.my:80/live/411078517136/343417707359/3900.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3900.ts
 #EXTINF:-1 tvg-id="309.dstv_com",DS-Disney Junior
-http://tvsystem.my:80/live/411078517136/343417707359/3901.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3901.ts
 #EXTINF:-1 tvg-id="340.dstv_com",DS-Dumisa
-http://tvsystem.my:80/live/411078517136/343417707359/3810.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3810.ts
 #EXTINF:-1 tvg-id="194.dstv_com",DS-e.tv (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3708.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3708.ts
 #EXTINF:-1 tvg-id="195.dstv_com",DS-e.TV Extra (FHD)
 http://vocotv.pro:80/robins/robins/62859
 #EXTINF:-1 tvg-id="138.dstv_com",DS-eMovies (FHD)
@@ -51,21 +51,21 @@ http://vocotv.pro:80/robins/robins/62897
 #EXTINF:-1 tvg-id="140.dstv_com",DS-eMovies Extra (FHD)
 http://vocotv.pro:80/robins/robins/62896
 #EXTINF:-1 tvg-id="403.dstv_com",DS-eNCA (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3700.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3700.ts
 #EXTINF:-1 tvg-id="218.dstv_com",DS-ESPN (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3784.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3784.ts
 #EXTINF:-1 tvg-id="219.dstv_com",DS-ESPN 2 (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3785.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3785.ts
 #EXTINF:-1 tvg-id="311.dstv_com",DS-eToonz
 http://vocotv.pro:80/robins/robins/62815
 #EXTINF:-1 tvg-id="414.dstv_com",DS-EuroNews
-http://tvsystem.my:80/live/411078517136/343417707359/3951.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3951.ts
 #EXTINF:-1 tvg-id="341.dstv_com",DS-FAITH
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="175.dstv_com",DS-Food Network (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3796.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3796.ts
 #EXTINF:-1 tvg-id="177.dstv_com",DS-HGTV (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/17035.ts
+http://tvsystem.my:80/live/524596815638/425609628250/17035.ts
 #EXTINF:-1 tvg-id="347.dstv_com",DS-Hilaal TV
 http://vocotv.pro:80/robins/robins/62791
 #EXTINF:-1 tvg-id="186.dstv_com",DS-HISTORY (FHD)
@@ -89,7 +89,7 @@ http://vocotv.pro:80/robins/robins/62842
 #EXTINF:-1 tvg-id="292.dstv_com",DS-Lesotho TV
 http://vocotv.pro:80/robins/robins/62822
 #EXTINF:-1 tvg-id="101.dstv_com",DS-M-Net (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3867.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3867.ts
 #EXTINF:-1 tvg-id="104.dstv_com",DS-M-Net Movies 1 (FHD)
 http://vocotv.pro:80/robins/robins/62913
 #EXTINF:-1 tvg-id="106.dstv_com",DS-M-Net Movies 2 (FHD)
@@ -109,49 +109,49 @@ http://vocotv.pro:80/robins/robins/62898
 #EXTINF:-1 tvg-id="260.dstv_com",DS-Mpuma Kapa TV
 http://vocotv.pro:80/robins/robins/62828
 #EXTINF:-1 tvg-id="130.dstv_com",DS-MTV (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/24984.ts
+http://tvsystem.my:80/live/524596815638/425609628250/24984.ts
 #EXTINF:-1 tvg-id="322.dstv_com",DS-MTV Base (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3852.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3852.ts
 #EXTINF:-1 tvg-id="164.dstv_com",DS-Mzansi Bioskop (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3888.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3888.ts
 #EXTINF:-1 tvg-id="161.dstv_com",DS-Mzansi Magic (FHD)
 http://vocotv.pro:80/robins/robins/62877
 #EXTINF:-1 tvg-id="321.dstv_com",DS-Mzansi Magic Music (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3856.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3856.ts
 #EXTINF:-1 tvg-id="163.dstv_com",DS-Mzansi Wethu (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3887.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3887.ts
 #EXTINF:-1 tvg-id="181.dstv_com",DS-National Geographic (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3829.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3829.ts
 #EXTINF:-1 tvg-id="182.dstv_com",DS-National Geographic WILD (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3830.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3830.ts
 #EXTINF:-1 tvg-id="413.dstv_com",DS-NDTV247
-http://tvsystem.my:80/live/411078517136/343417707359/3712.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3712.ts
 #EXTINF:-1 tvg-id="405.dstv_com",DS-Newzroom Afrika (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/4290.ts
+http://tvsystem.my:80/live/524596815638/425609628250/4290.ts
 #EXTINF:-1 tvg-id="431.dstv_com",DS-NHK
-http://tvsystem.my:80/live/411078517136/343417707359/3727.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3727.ts
 #EXTINF:-1 tvg-id="305.dstv_com",DS-Nickelodeon (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3906.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3906.ts
 #EXTINF:-1 tvg-id="307.dstv_com",DS-Nick Jr
-http://tvsystem.my:80/live/411078517136/343417707359/3907.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3907.ts
 #EXTINF:-1 tvg-id="308.dstv_com",DS-NickTOONS
-http://tvsystem.my:80/live/411078517136/343417707359/3905.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3905.ts
 #EXTINF:-1 tvg-id="331.dstv_com",DS-One Gospel
 http://vocotv.pro:80/robins/robins/62784
 #EXTINF:-1 tvg-id="408.dstv_com",DS-Parliamentary Service
 http://vocotv.pro:80/robins/robins/62796
 #EXTINF:-1 tvg-id="240.dstv_com",DS-Racing 240
-http://tvsystem.my:80/live/411078517136/343417707359/3786.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3786.ts
 #EXTINF:-1 tvg-id="430.dstv_com",DS-RAI Italia
 http://vocotv.pro:80/robins/robins/62805
 #EXTINF:-1 tvg-id="155.dstv_com",DS-Real Time
-http://tvsystem.my:80/live/411078517136/343417707359/3823.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3823.ts
 #EXTINF:-1 tvg-id="168.dstv_com",DS-Rok
-http://tvsystem.my:80/live/411078517136/343417707359/3892.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3892.ts
 #EXTINF:-1 tvg-id="435.dstv_com",DS-RTP Internacional
 http://vocotv.pro:80/robins/robins/62807
 #EXTINF:-1 tvg-id="407.dstv_com",DS-Russia Today
-http://tvsystem.my:80/live/411078517136/343417707359/3719.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3719.ts
 #EXTINF:-1 tvg-id="191.dstv_com",DS-SABC 1 (FHD)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="192.dstv_com",DS-SABC 2 (FHD)
@@ -159,82 +159,80 @@ https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="193.dstv_com",DS-SABC 3 (FHD)
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="404.dstv_com",DS-SABC News
-http://tvsystem.my:80/live/411078517136/343417707359/3699.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3699.ts
 #EXTINF:-1 tvg-id="402.dstv_com",DS-Sky News (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3710.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3710.ts
 #EXTINF:-1 tvg-id="327.dstv_com",DS-SOUNDCITY
-http://tvsystem.my:80/live/411078517136/343417707359/3857.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3857.ts
 #EXTINF:-1 tvg-id="251.dstv_com",DS-Soweto TV
-http://tvsystem.my:80/live/411078517136/343417707359/3826.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3826.ts
 #EXTINF:-1 tvg-id="190.dstv_com",DS-Spice TV
 http://vocotv.pro:80/robins/robins/62832
 #EXTINF:-1 tvg-id="241.dstv_com",DS- SS Maximo 1 Champions
 https://rolextv.one:443/22428200/22428210/205480
 #EXTINF:-1 tvg-id="128.dstv_com",DS- SS WWE Channel (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3788.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3788.ts
 #EXTINF:-1 tvg-id="167.dstv_com",DS-Star Life (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3895.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3895.ts
 #EXTINF:-1 tvg-id="112.dstv_com",DS-Studio Universal (FHD)
 http://vocotv.pro:80/robins/robins/62899
 #EXTINF:-1 tvg-id="343.dstv_com",DS-TBN Africa
-http://tvsystem.my:80/live/411078517136/343417707359/3742.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3742.ts
 #EXTINF:-1 tvg-id="135.dstv_com",DS-TLC Entertainment (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3797.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3797.ts
 #EXTINF:-1 tvg-id="133.dstv_com",DS-TLNovelas
-http://tvsystem.my:80/live/411078517136/343417707359/3890.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3890.ts
 #EXTINF:-1 tvg-id="137.dstv_com",DS-TNT Africa (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3804.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3804.ts
 #EXTINF:-1 tvg-id="326.dstv_com",DS-TRACE Africa
 http://vocotv.pro:80/robins/robins/62781
 #EXTINF:-1 tvg-id="332.dstv_com",DS-TRACE Gospel
-http://tvsystem.my:80/live/411078517136/343417707359/3841.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3841.ts
 #EXTINF:-1 tvg-id="325.dstv_com",DS-TRACE Urban (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3839.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3839.ts
 #EXTINF:-1 tvg-id="179.dstv_com",DS-Travel Channel
-http://tvsystem.my:80/live/411078517136/343417707359/3835.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3835.ts
 #EXTINF:-1 tvg-id="262.dstv_com",DS-Tshwane TV
-http://tvsystem.my:80/live/411078517136/343417707359/3824.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3824.ts
 #EXTINF:-1 tvg-id="117.dstv_com",DS-Universal TV (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3705.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3705.ts
 #EXTINF:-1 tvg-id="147.dstv_com",DS-VIA
 http://vocotv.pro:80/robins/robins/62881
 #EXTINF:-1 tvg-id="183.dstv_com",DS-Wild Earth
 http://vocotv.pro:80/robins/robins/62867
 #EXTINF:-1 tvg-id="166.dstv_com",DS-Zee World (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3734.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3734.ts
 #EXTINF:-1 tvg-id="210.dstv_com",SS Action
-http://tvsystem.my:80/live/411078517136/343417707359/3760.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3760.ts
 #EXTINF:-1 tvg-id="200.dstv_com",SS Blitz (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3757.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3757.ts
 #EXTINF:-1 tvg-id="212.dstv_com",SS Cricket
-http://tvsystem.my:80/live/411078517136/343417707359/3758.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3758.ts
 #EXTINF:-1 tvg-id="205.dstv_com",SS Football (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3751.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3751.ts
 #EXTINF:-1 tvg-id="213.dstv_com",SS Golf (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3761.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3761.ts
 #EXTINF:-1 tvg-id="201.dstv_com",SS Grandstand (FHD)
 https://rolextv.one:443/22428200/22428210/67852
 #EXTINF:-1 tvg-id="204.dstv_com",SS LaLiga (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3754.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3754.ts
 #EXTINF:-1 tvg-id="215.dstv_com",SS Motorsport (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3762.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3762.ts
 #EXTINF:-1 tvg-id="203.dstv_com",SS Premier League (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3750.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3750.ts
 #EXTINF:-1 tvg-id="202.dstv_com",SS PSL (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3753.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3753.ts
 #EXTINF:-1 tvg-id="211.dstv_com",SS Rugby (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3756.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3756.ts
 #EXTINF:-1 tvg-id="214.dstv_com",SS Tennis (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3763.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3763.ts
 #EXTINF:-1 tvg-id="206.dstv_com",SS Variety 1 (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3767.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3767.ts
 #EXTINF:-1 tvg-id="207.dstv_com",SS Variety 2 (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3768.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3768.ts
 #EXTINF:-1 tvg-id="208.dstv_com",SS Variety 3 (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3770.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3770.ts
 #EXTINF:-1 tvg-id="209.dstv_com",SS Variety 4 (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3769.ts
+http://tvsystem.my:80/live/524596815638/425609628250/3769.ts
 #EXTINF:-1 tvg-id="216.dstv_com",Supersport Schools (FHD)
-http://tvsystem.my:80/live/411078517136/343417707359/3771.ts
-
-
+http://tvsystem.my:80/live/524596815638/425609628250/3771.ts
